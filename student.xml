@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student id="88888" phone="15888888888" sex="男">
+        <name>张三</name>
+        <age>18</age>
+        <school>清华</school>
+    </student>
+    <student id="99999" phone="15999999999" sex="女">
+        <name>李四</name>
+        <age>28</age>
+        <school>北大</school>
+    </student>
+    <AAAA>
+        <aa1>aa111</aa1>
+        <aa2>aa222</aa2>
+    </AAAA>
+    <BBBB/>
+</students>
